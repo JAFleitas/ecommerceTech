@@ -1,0 +1,58 @@
+[
+    {
+        "name":"HardwareMaster",
+
+        "phone": "123342445",
+
+        "email": "samuelposadas@gmail.com"
+    },
+
+    {
+        "name":"StoreTech",
+
+        "phone": "981565157",
+
+        "email": "storetech220@gmail.com"
+    },
+
+    {
+        "name":"DeskLive",
+
+        "phone": "12345678",
+
+        "email": "agus2324@gmail.com"
+    },
+
+    {
+        "name":"DR-PC",
+
+        "phone": "13457675",
+
+        "email": "Edwin1212@gmail.com"
+    },
+
+    {
+        "name":"TurboByte",
+
+        "phone": "22233455",
+
+        "email": "Fran1111@gmail.com"
+    },
+
+    {
+        "name":"NVIDIA",
+
+        "phone": "233344555",
+
+        "email": "nico3331@gmail.com"
+    },
+
+    {
+        "name":"OLYSM",
+
+        "phone": "165165",
+
+        "email": "amdgaming@gmail.com"
+    }
+
+]

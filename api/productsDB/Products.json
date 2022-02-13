@@ -1,0 +1,757 @@
+[
+  {
+    "name": "2021 HP 14 inch HD Laptop",
+    "description": "AMD Athlon Mobile Processor with Radeon Graphics. AMD Athlon Silver 3050U (2.3 GHz, up to 3.2 GHz). Get more done faster on a reliable laptop that can keep up with your everyday tasks.14-inch diagonal HD, SVA, anti-glare, micro-edge, WLED-backlit, (1366 x 768) Display. Gives you the space and clarity you need to get your work done. Weighs 3.24 lbs. and measures 0.8 thin Ultrathin and ultralight for maximum portability, featuring a smaller screen size.RAM is upgraded to 16GB DDR4 SDRAM for multitasking Adequate high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once. 512GB solid state drive (SSD) While offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery.Up to 10 Hours of battery life means you can transition from morning meetings to evening entertainment without plugging in.",
+    "salePrice": 700,
+    "img": [
+      "https://m.media-amazon.com/images/I/81C7E9Fp7yL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/714K3sfx+oL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 539,
+    "stock": 10,
+    "discount": 0,
+    "supplier": 3,
+    "Categories": 6,
+    "ram": "16",
+    "processor": "AMD",
+    "storage" : 512,
+    "opeSystem" : "Windows",
+    "sizeScreen" : 14,
+    "resolution" : "HD",
+    "typeScreen" : "LCD"
+  },
+
+  {
+    "name": "HP 2021 Newest 14in HD Laptop Light-Weight",
+    "description": "✔【14 HD Display】14 HD(1366 x 768) Display with micro-edge bezel design, WLED-backlit, BrightView, Enjoy your entertainment with the great quality and high-definition detail of 1 million pixels /n✔【AMD Athlon Mobile Processor with Radeon Graphics】 AMD Athlon Silver 3050U (2.3 GHz, up to 3.2 GHz). This laptop is powered by AMD which gives good performance with efficiency. It can also do simple gaming thanks to its integrated AMD Radeon graphics. /n✔【Upgrade to 8GB RAM】Substantial high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once. /n【Upgrade to 64GB emmc + 256GB SSD】Speedy solid-state drive for seanless performance and reliable multitasking, allows you to store a large number of files, improving the reading speed of large files, ensuring daily use and the speed of opening large files, reduce the time of application and file loading /n✔【Activate 1 Year MS office 365 & Win10 in S mode】(About switch to regular Win10, see the detail in Product description) Activate pre-installed Office: 1.Launch any Office app > 2.Start your activation by signing in with your Microsoft account(Create a account if you don't have one yet) > 3.Click Activate Office > 4.Sign in your account and follow the next prompts. > 5.Complete Step 1,2 and 3 > 6.Click on Refresh once Office is ready > 7.Open a document and accept the license agreement",
+    "salePrice": 469,
+    "img": [
+      "https://m.media-amazon.com/images/I/81NvTUBf9ZS._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81cWK1vPMpS._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 320,
+    "stock": 7,
+    "discount": 0,
+    "supplier": 3,
+    "Categories": 6,
+    "ram": "4",
+    "processor": "AMD",
+    "storage" : 128, 
+    
+    "opeSystem" : "Linux",
+    "sizeScreen" : 14,
+    "resolution" : "HD",
+    "typeScreen" : "LED"
+  },
+
+  {
+    "name": "Logitech G502 HERO High Performance Wired Gaming Mouse",
+    "description": "Hero 25K sensor through a software update from G HUB, this upgrade is free to all players: Our most advanced, with 1:1 tracking, 400-plus ips, and 100 - 25,600 max dpi sensitivity plus zero smoothing, filtering, or acceleration  /n11 customizable buttons and onboard memory: Assign custom commands to the buttons and save up to five ready to play profiles directly to the mouse  /nAdjustable weight system: Arrange up to five removable 3.6 grams weights inside the mouse for personalized weight and balance tuning",
+    "salePrice": 38,
+    "img": [
+      "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71sgEIlSvfL._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 15,
+    "stock": 18,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 5
+  },
+
+  {
+    "name": "DELUX 80G (2.82oz) Wired Ergonomic Gaming Mouse",
+    "description": "[Exclusive Replaceable Basic Design] Detachable basic structure design-Removeable rear basic parts, let it fit all gamer grip style. Come with Small Basic-Ambidextrous, Big Basic-Right handed, without Basic let its weight at about 69g, cuting down the rear part friction, free your movement, great for fingertip grip; with Small Basic, let it to be a Ambidextrous mouse, great for claw grip; and with Big basic, let it to be a Right handed mouse with thumb rest, great for palm grip /n[Extrordinary Advanced RGB] there are 4 zone lighting: front light/scroll whell/logo/rear light. Inspired by car light, design with a headlight which is a whole lighting face in front of the mouse and two taillight, offer you the marvelous lighting effects. And for the lighting mode shift, click the backward and scroll wheel at the same time to select the preset light effects or just turn off the light without driver",
+    "salePrice": 36,
+    "img": [
+      "https://m.media-amazon.com/images/I/51Pfq+glbqS._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61F5snpV2pL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 22,
+    "stock": 8,
+    "discount": 20,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 5
+  },
+
+  {
+    "name": "LTC Circle Pit HM-001 RGB Gaming Mouse",
+    "description": "【Lightweight Design】With a honeycomb shell design, this LTC mouse is just 75 grams (2.65oz) in weight, very lightweight and agile to move and aim. Your hand will not feel tired even for a long time playing. Also, no worry about the dust and spill will hurt the sensor, a PCBA housing cover protects your mouse well and easy to clean. /nAdjustable DPI to 6400】Geared with 5 onboard DPI levels (800/2400/3200/4800/6400) which allows your mouse movements to be registered to pinpoint accuracy. Each of the 5 DPI levels is easily customizable via software, enabling you to switch to your DPI settings on the fly.",
+    "salePrice": 25,
+    "img": [
+      "https://m.media-amazon.com/images/I/61eFTTJ+HBL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71MBSFzNoPL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 14,
+    "stock": 22,
+    "discount": 5,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 5
+  },
+
+  {
+    "name": "Noble 5 Liftoff Gaming Mouse",
+    "description": "Top of the Line Sensor -- Ultra accurate E-sports standard 12,000 DPI PixArt PMW3360 sensor to offer you the highest precision, speed, and control. No spinouts. No overcompensating. Just perfect tracking. /nAdjustable -- Easy to adjust to your sensitivity comfort zone: adjustable polling rate at the push of a button from 125Hz / 250Hz / 500Hz/ 1000Hz for a lightspeed 1ms report rate. Dedicated DPI buttons to control your speed with on-the-fly sensitivity adjustment for gaming or the office.",
+    "salePrice": 30,
+    "img": [
+      "https://m.media-amazon.com/images/I/616bcypjHCL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61iQKeTVdML._AC_SY741_.jpg"
+    ],
+    "purchasePrice": 13,
+    "stock": 5,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 5
+  },
+
+  {
+    "name": "CYBERPOWERPC Gamer Supreme Liquid Cool Gaming PC",
+    "description": "System: AMD Ryzen 7 3800X 3.9GHz 8-Core | AMD B550 Chipset | 16GB DDR4 | 1TB PCI-E NVMe SSD | Genuine Windows 11 Home 64-bit  /nGraphics: NVIDIA GeForce RTX 3060 12GB Video Card | 1x HDMI | 2x DisplayPort  /nConnectivity: 6 x USB 3.1 | 2 x USB 2.0 | 1x RJ-45 Network Ethernet 10/100/1000 | 802.11AC Wi-Fi | Audio: 7.1 Channel | Keyboard and mouse  /nSpecial feature: Liquid Cooling | Tempered glass side case panel | Custom RGB case lighting | USB Gaming Keyboard | RGB 7 colors gaming mouse",
+    "salePrice": 1510,
+    "img": [
+      "https://m.media-amazon.com/images/I/818SNa1ruZL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/915laS+ZbEL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 1100,
+    "stock": 3,
+    "discount": 10,
+    "supplier": 7,
+    "Categories": 1,
+    "ram": "16",
+    "processor": "AMD",
+
+    "storage" : 512,
+    "display": 1,
+    "opeSystem" : "Windows",
+    "sizeScreen" : 32,
+    "resolution" : "Full HD",
+    "typeScreen" : "LED"
+
+
+  },
+
+  {
+    "name": "Gaming Keyboard and Mouse and Mouse pad and Gaming Headset",
+    "description": "Gaming Mouse and Keyboard and around the Head Gaming Headset and Mouse Mat Complete Starter pack all in one great Gift box (This Bundle includes FOUR items) /nPC Gaming, PS4 Gaming, Xbox Gaming, Retro Pie Gaming or can be used for normal day to day Computing   /nRGB lights for ultimate PC Gaming Experience",
+    "salePrice": 45,
+    "img": [
+      "https://i.ebayimg.com/images/g/PhoAAOSwq1NeVEPM/s-l1600.jpg",
+      "https://i.ebayimg.com/images/g/mz4AAOSwheBeTddK/s-l1600.jpg"
+    ],
+    "purchasePrice": 30,
+    "stock": 12,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 6
+  },
+  {
+    "name": "CyberpowerPC Gamer Xtreme Gaming Desktop Computer",
+    "description": "Gamer Xtreme Gaming Desktop Computer - USB Gaming Keyboard - 7 Colors RGB Gaming Mouse - Driver Discs - Power Cord - CyberPowerPC 1 Year Limited Warranty  /nSystem: Intel Core i7-10700 2.9GHz 8-Core | Intel B460 Chipset  /n16GB DDR4 | 240GB SSD | 2TB HDD /nGenuine Windows 10 Home 64-bit  /nGraphics NVIDIA GeForce GTX 1660 SUPER 6GB Video Card | 1x HDMI | 1x DisplayPort",
+    "salePrice": 1999,
+    "img": [
+      "https://m.media-amazon.com/images/I/61aSvBuJJ-L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71OoV+eGT4L._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 1470,
+    "stock": 2,
+    "discount": 0,
+    "supplier": 6,
+    "Categories": 1,
+    "ram": "32",
+    "processor": "Intel",
+
+    "storage" : 512, 
+    "display": 0,
+    "opeSystem" : "Windows",
+    "sizeScreen" : "",
+    "resolution" : "",
+    "typeScreen" : ""
+
+  },
+  {
+    "name": "SAMSUNG Galaxy Tab S7 11-inch Android Tablet 128GB",
+    "description": "PC PERFORMANCE. TABLET PORTABILITY: Transform your tablet into a PC experience with DeX mode and the optional keyboard¹ with expanded trackpad. (Keyboard sold separately) /nENTERTAINMENT, UPGRADED: Experience cinematic viewing with larger edge-to-edge displays, TFT LCD screen, and AKG quad speakers with Dolby Atmos Surround sound. /nREDESIGNED S PEN INCLUDED: With improved 9ms Pen latency, the redesigned S Pen can control presentations and take notes effortlessly. /nCHANGE THE WAY YOU GAME: Bring console gaming anywhere thanks to available Wi-Fi connection, an immersive screen, and Bluetooth-enabled controller.",
+    "salePrice": 499.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/51fPuFND28L._AC_SY741_.jpg",
+      "https://m.media-amazon.com/images/I/51cHlU-HGVL._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 220,
+    "stock": 10,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 5,
+    "ram": "8",
+    "processor": "4 core",
+    "storage" : 512, 
+ 
+    "opeSystem" : "Android",
+    "sizeScreen" : 5.8,
+    "resolution" : "HD",
+    "typeScreen" : "LCD"
+
+  },
+  {
+    "name": "Lenovo Tab M8 Tablet",
+    "description": "Stunning performance and stylish design combine in this quick, powerful Android tablet, powered by a Quad-Core, 2.0 GHz processor and Android 9 Pie /nThe modern, refined look and feel are accentuated by the full metal cover and 82% panel-to-body ratio  /nThe stunning 8 HD (1280 x 800) display brings you a crisper and brighter image, so you can watch your favorite movies and shows without missing a detail",
+    "salePrice": 99.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/716LsyDg3fL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71GaizJ+LuL._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 45,
+    "stock": 22,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 5,
+    "ram": "8",
+    "processor": "4 core",
+    "storage": 128,
+    "opeSystem" : "Android",
+    "sizeScreen" : 8,
+    "resolution" : "HD",
+    "typeScreen" : "Amoled"
+
+  },
+  {
+    "name": "VASTKING KingPad K10 Pro",
+    "description": "【Laptop Achievement, Tablet Portability】Transform your tablet into a PC experience with a docking keyboard case with expanded trackpad, type quickly and accurately anytime you want, solve your assignments easily and offer extensive protection for your device at the same time. The stylus pen will maximize your inspiration to the greatest extent, 1.66mm pen tip can replace your finger to execute finer instructions, No lag/offset/breaking point！(no need to install bluetooth or Apps)  /n【Powerful Performance For All】With Upgraded 12nm chipset (2x1.8GHz +6X1.6GHz) and 4GB RAM, K10 Pro is extremely fast and powerful with minimal delay, you can easily run your favorite games and handle multi-tasking. The 2-Core GPU operating at a frequency of 650 MHz presents advanced computer game performance. It is able to run multiple applications simultaneously and uphold as long as 20 days of standby time. Be powerful consistently as you wish",
+    "salePrice": 187,
+    "img": [
+      "https://m.media-amazon.com/images/I/71l786LyM6L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71bp66cEFML._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 120,
+    "stock": 5,
+    "discount": 0,
+    "supplier": 6,
+    "Categories": 6,
+    "ram": "4",
+    "processor": "4 core",
+    "storage" : 128,
+    "opeSystem" : "iOS",
+    "sizeScreen" : 7,
+    "resolution" : "HD",
+    "typeScreen" : "Gorilla Glass"
+  },
+  {
+    "name": "All-New Insignia 55 inch NS-55F301NA22 F30 Series",
+    "description": "4K Ultra HD (2160p resolution) - Enjoy breathtaking 4K movies and TV shows at 4 times the resolution of Full HD, and upscale your current content to Ultra HD-level picture quality. /nAlexa voice control - Speak commands into the voice remote with Alexa to control your Fire TV verbally—ask it to watch live TV, search for titles, play music, switch inputs, control smart home devices and more. /nAccess thousands of shows with Fire TV - Watch over 500,000 streaming movies and TV episodes with access to tens of thousands of channels, apps and Alexa skills. You can use Prime Video, Netflix, Hulu, YouTube and other services right from this TV.",
+    "salePrice": 369.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/81j8q14PMGL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81FO8c5zphL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 245,
+    "stock": 4,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 3,
+    "sizeScreen" : 55,
+    "resolution" : "4K ultra HD",
+    "typeScreen" : "LED"
+
+  },
+  {
+    "name": "SAMSUNG 60-Inch Class QLED Q60A Series - 4K",
+    "description": "00% COLOR VOLUME WITH QUANTUM DOT: A billion stay-true shades of breathtaking color. QLED televisions can produce 100% Color Volume in the DCI-P3 color space, the format for most cinema screens and HDR movies for television. /nDUAL LED Backlight: Dedicated warm and cool LED backlights provide enhanced contrast. 32 Dual LED not available. HLG (Hybrid Log Gamma) : Yes  /nQUANTUM HDR: Go beyond HDTV with an expanded range of color.   /nAIR SLIM DESIGN: Sleek and slim design.",
+    "salePrice": 534,
+    "img": [
+      "https://m.media-amazon.com/images/I/71G6eW8H8hL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/610aLMLkSSL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 380,
+    "stock": 7,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 3,
+    "sizeScreen" : 60,
+    "resolution" : "Full HD",
+    "typeScreen" : "LED"
+  },
+  {
+    "name": "Havit RGB Gaming Mouse Pad & Headset Stand Combo Set",
+    "description": "【RGB Mouse Pad and Headphones Holder】The gaming mouse pad features 7 static light modes and 7 dynamic modes and the headphone holder has 7 kinds of lighting color in 2 modes. RGB backlighting creates a cool gaming environment, perfect for pc gaming.  /n【Smooth Surface and Non-slip Base】The big mouse pad is made of super fiber and soft soft cloth surface with non-slip rubber base. The mousepad is with a perfect size (700mm x 285mm/ 27.56''x11.22'') that provides perfect movement space for PC games. /n 【Dual USB Ports Gaming Headset Stand】The dual headphone holder is designed to place or display more headphones. Double-end hangers with non-slip rubberized base provides great stability for holding two or more headphones.",
+    "salePrice": 60,
+    "img": [
+      "https://m.media-amazon.com/images/I/71Nn3sWHPfL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/716EubBwADS._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 28,
+    "stock": 22,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 6
+  },
+  {
+    "name": "RGB Gaming Wireless Charging Mouse Pad",
+    "description": "The RGB gaming mouse pad is made of natural rubber material, which makes the mouse move more precise. The soft and smooth surface is more perfect for waterproofing. Effectively prevent damage from spilled beverages or other liquids, and is easy to clean with water without fading. Ideal for games or work，durable",
+    "salePrice": 24.5,
+    "img": [
+      "https://m.media-amazon.com/images/I/51qNwi8i5YL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51NQLqfrG4L._AC_.jpg"
+    ],
+    "purchasePrice": 8,
+    "stock": 14,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 2
+  },
+  {
+    "name": "USB Gaming Microphone, Risea Computer Condenser PC Mic",
+    "description": "Plug and play usb recording microphone come with 1.5 meters USB Cable ,just Just plug in the USB interface no need additional driver software, sound card or phantom power is required. A must have for gaming, streaming, chatting, web conferencing, podcasting, recording, Zoom, Skype, YouTube video, etc. /nRecording Microphone built-in sensitivity chip, in order to provides you a clear and smooth vocal, There is no weird beeping, echo sound or other background noise to disturb you. You can immerse yourself in your game or recording moments",
+    "salePrice": 27.55,
+    "img": [
+      "https://m.media-amazon.com/images/I/71o10XErbcL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71gOPICK1-L._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 15,
+    "stock": 6,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 7
+  },
+  {
+    "name": "Computer Speakers,2.0 Stereo Volume Control Gaming",
+    "description": "This USB speakers has 6 kinds of LED backlit modes,and it also automatically changes different colors during play. When watching movies and playing games, make it looks cooler. ( You can turn on/off the light by touch switch)",
+    "salePrice": 21.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/61BtidQfsGL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71mD6PmY4UL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 10,
+    "stock": 30,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 4
+  },
+  {
+    "name": "RGB Extended Gaming Mouse pad",
+    "description": "It can create a cool and nice game atmosphere with 14 kinds of lighting modes,include 8 kinds of static lighting modes and 6 dynamic lighting modes,And it can remembers your last lighting mode selection",
+    "salePrice": 21.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/81nEvl5K53L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/81ed1kU5AKL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 12,
+    "stock": 14,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 2
+  },
+  {
+    "name": "TracFone iPhone XR 4G LTE Prepaid Smartphone",
+    "description": "The Tracfone Apple iPhone XR offers a blend of style and innovation that stands out. This water-resistant iPhone also comes with a reliable liquid retina display with one of the most advanced LCD screens in the industry. The iPhone XR includes fast-acting face ID and uses a smart and powerful chip to provide the quality experience you want.",
+    "salePrice": 329.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/71bfERiBXSL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/717KHGCJ6eL._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 270,
+    "stock": 20,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 2,
+    "ram": "16",
+    "processor": "4 core",
+    "storage" : 512, 
+    "opeSystem" : "iOS",
+    "sizeScreen" : 7.8,
+    "resolution" : "HD",
+    "typeScreen" : "LCD"
+  },
+  {
+    "name": "Xiaomi Mi 10T - Smartphone",
+    "description": "WILL NOT WORK WITH SPRINT, CRICKET, BOOST MOBILE OR VERIZON",
+    "salePrice": 387.45,
+    "img": [
+      "https://m.media-amazon.com/images/I/81js+FWp4XL._AC_SY741_.jpg",
+      "https://m.media-amazon.com/images/I/710VBlX63PL._AC_SY741_.jpg"
+    ],
+    "purchasePrice": 310,
+    "stock": 5,
+    "discount": 0,
+    "supplier": 6,
+    "Categories": 2,
+    "ram": "8",
+    "processor": "8 core",
+    "storage" : 256, 
+    "opeSystem" : "Android",
+    "sizeScreen" : 6,
+    "resolution" : "HD",
+    "typeScreen" : "LCD"
+
+  },
+  {
+    "name": "TCL 20 Pro 5G Unlocked Android Smartphone",
+    "description": "Unlocked Smartphone: Compatible with Verizon 5G<E, T-Mobile and AT&T LTE networks (without AT&T 5G). If your device doesn't work with Verizon, please restart the phone. If your device experiences an error when making calls on Verizon, your account may need to be provisioned to support “CDMA-less” devices with the assistance of Verizon’s technical support team or your account’s business representative. This device isn't compatible with CDMA networks-such as Sprint, Spectrum, Xfinity,etc",
+    "salePrice": 499.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/81-iFZ14NGS._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71jHq+OJjkS._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 380,
+    "stock": 4,
+    "discount": 0,
+    "supplier": 7,
+    "Categories": 2,
+    "ram": "16",
+    "processor": "8 core",
+    "storage": 1024,
+    "opeSystem" : "Android",
+    "sizeScreen" : 7.8,
+    "resolution" : "Full HD",
+    "typeScreen" : "Gorilla Glass"
+  },
+  {
+    "name": "OnePlus Nord N200 | 5G Unlocked Android Smartphone U.S Version",
+    "description": "5G Enabled (5G service only available on T-Mobile and Google Fi) - Powered by the latest Qualcomm 5G chipset, the OnePlus Nord N200 5G allows you to download or stream your favorite TV shows, connect with your social media, and play online multiplayer at blazing fast speeds.",
+    "salePrice": 240,
+    "img": [
+      "https://m.media-amazon.com/images/I/71DCZOdq92S._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71hCU6s3AWS._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 155,
+    "stock": 12,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 2,
+    "ram": "8",
+    "processor": "4 core",
+    "storage" : 128, 
+    "opeSystem" : "Android",
+    "sizeScreen" : 6.8,
+    "resolution" : "HD",
+    "typeScreen" : "LCD"
+  },
+  {
+    "name": "Razer Tartarus v2 Gaming Keypad",
+    "description": "High-Performance Mecha-Membrane Switches: Provides the tactile feedback of mechanical key press on a comfortable, soft-cushioned, membrane, rubber dome switch suitable for gaming /n32 Mecha-Membrane Keys for More Hotkeys and Actions: Perfect for gaming or integrating into creative workflows with fully programmable keys",
+    "salePrice": 79.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/71r3ktfakgL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/713vwx2+XUL._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 42,
+    "stock": 9,
+    "discount": 0,
+    "supplier": 4,
+    "Categories": 4,
+    "SpeAccesory": 2
+  },
+  {
+    "name": "Razer Wolverine Tournament Edition Officially Licensed Xbox One Controller",
+    "description": "Rapid-Fire Switch for Instant Actuation: Activiating Hair Trigger mode via a physical switch greatly reduces travel distance for the ultimate competitive edge  /n4 Remappable Multi Function Buttons: Comes with an additional 2 multi-function bumpers and 2 multi-function triggers",
+    "salePrice": 124.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/81fKtaySh1L._SX522_.jpg",
+      "https://m.media-amazon.com/images/I/7123ke9WaUL._SX522_.jpg"
+    ],
+    "purchasePrice": 85,
+    "stock": 5,
+    "discount": 0,
+    "supplier": 4,
+    "Categories":4,
+    "SpeAccesory": 11
+  },
+  {
+    "name": "Spedal USB Streaming Webcam with Ring Light",
+    "description": "PREMIUM LIVE STREAMING SOLUTION SOFTWARE -With this streaming webcam you show your skills with superior clarity when you go live on Twitch and YouTube. Spedal camera software is a video stream adjustment software specially developed and designed for webcams. Customers can use the software to modify the Exposure/ Brightness / Resolution / Saturation / Contrast / Sharpness / PLF(HZ) / White Balance and more of the image in the process of using the camera",
+    "salePrice": 45.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/71n8b52KWDL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71jc4tto8qL._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 30,
+    "stock": 18,
+    "discount": 0,
+    "supplier": 5,
+    "Categories": 4,
+    "SpeAccesory": 11
+  },
+  {
+    "name": "SkyTech Blaze II Gaming Computer PC Desktop",
+    "description": "✔ AMD Ryzen 3 3100 4-Core 3.6 GHz (3.9 GHz Turbo) CPU Processor | 500GB SSD - Up to 30x faster than traditional HDD  /n✔ GeForce GTX 1650 4GB Graphics Card | 8GB DDR4 3000MHz Gaming Memory | Windows 10 Home 64-bit  /n✔ 802.11AC Wi-Fi | No Bloatware | HD Audio and Mic | Free Gaming Keyboard and Mouse | 4 x USB 3.1 Gen1 Ports, 2 x USB 2.0 | 1x HDMI, 1x DP Guaranteed, additional ports may vary",
+    "salePrice": 979.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/81uK-gDo+iL._AC_SX425_.jpg",
+      "https://m.media-amazon.com/images/I/81x7ocu2O9L._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 760,
+    "stock": 4,
+    "discount": 10,
+    "supplier": 7,
+    "Categories": 1,
+    "ram": "8",
+    "processor": "AMD",
+    "storage" : 512,
+    "display": 0,
+    "opeSystem" : "Windows"
+  },
+  {
+    "name": "Alienware 7.1 PC Gaming Headset",
+    "description": "Best-in-class custom-tuned 50mm 20Hz - 40kHz drivers for a high resolution audio experience  /n7. 1 Surround Sound featuring Signature Alien ware Immersive Audio   /nHybrid of plush memory foam, sports fabric and leatherette on the ear pads designed to achieve optimal cooling and comfort while enhancing noise isolation   /nIdeal clamp force ensures that there is no slippage during gameplay",
+    "salePrice": 87.52,
+    "img": [
+      "https://m.media-amazon.com/images/I/712TaM-9wYL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71WucjWZrUL._AC_SX679_.jpg"
+    ],
+    "purchasePrice": 45,
+    "stock": 17,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 4,
+    "SpeAccesory": 10
+  },
+  {
+    "name": "New Alienware Aurora R11 Gaming Desktop",
+    "description": "Featuring the latest generation Intel Core processor and 16GB HyperX FURY memory at 2933MHz for greater multitasking capabilities and powerful performance. Liquid-cooled graphics for higher performing graphics.  /nAlienware’s most advanced Intel-based mid-tower gaming desktop. With full customization on key components you care about with additional programmable RGB LED AlienFX lighting zone in dark side of the moon chasis",
+    "salePrice": 2809.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/71WG+kXUe0L._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71v1QCyt2yL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 2150,
+    "stock": 2,
+    "discount": 0,
+    "supplier": 5,
+    "Categories": 1,
+    "ram": "16",
+    "processor": "Intel",
+    "storage" : 1024,
+    "display": 1,
+    "opeSystem" : "Windows",
+    "sizeScreen" : 28,
+    "resolution" : "Full HD",
+    "typeScreen" : "LED"
+  },
+  {
+    "name": "Apple MacBook Pro 13",
+    "description": "13.3-inch MacBook Pro BTO with Retinal Display - 61W USB Type-C Power Adapter - Type-C USB Charging Cable (2m) - Apple 1-Year Limited Warranty with 90-Day Technical Support",
+    "salePrice": 1649.93,
+    "img": [
+      "https://m.media-amazon.com/images/I/51pWDiO9CrL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61aIxbma5SL._AC_SY355_.jpg"
+    ],
+    "purchasePrice": 1250,
+    "stock": 5,
+    "discount": 0,
+    "supplier": 5,
+    "Categories": 6,
+    "ram": "16",
+    "processor": "AMD",
+    "storage" : 512, 
+    "opeSystem" : "Mac OS",
+    "sizeScreen" : 13,
+    "resolution" : "HD",
+    "typeScreen" : "LED"
+  },
+  {
+    "name": "Apple MacBook Pro 2021",
+    "description": "(14-inch, Apple M1 Pro chip with 10-core CPU and 16-core GPU, 16GB RAM, 1TB SSD) - Silver",
+    "salePrice": 2480,
+    "img": [
+      "https://m.media-amazon.com/images/I/61vFO3R5UNL._AC_SX342_.jpg",
+      "https://m.media-amazon.com/images/I/71AKE565U4L._AC_SX342_.jpg"
+    ],
+    "purchasePrice": 1800,
+    "stock": 3,
+    "discount": 0,
+    "supplier": 3,
+    "Categories": 6,
+    "ram": "16",
+    "processor": "Apple",
+    "storage": 1024,
+    "opeSystem" : "Mac OS",
+    "sizeScreen" : 14,
+    "resolution" : "Full HD",
+    "typeScreen" : "LED"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip 3 5G Factory Unlocked",
+    "description": "Flex your best angle: With flex mode, simply unfold your phone screen to the best angle for hands-free photos and video calls; choose what you want to capture, place it, stand up and shoot your best photo",
+    "salePrice": 950,
+    "img": [
+      "https://m.media-amazon.com/images/I/716P9qOKcUL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71FegtQDBTL._AC_SY355_.jpg"
+    ],
+    "purchasePrice": 600,
+    "stock": 7,
+    "discount": 0,
+    "supplier": 3,
+    "Categories": 2,
+    "ram": "8",
+    "processor": "8 core",
+    "storage": 512,
+    "opeSystem" : "Android",
+    "sizeScreen" : 8.2,
+    "resolution" : "HD",
+    "typeScreen" : "OLED"
+  },
+  {
+    "name": "Samsung Galaxy S21 5G | Factory unlocked Android phone",
+    "description": "International version 5G Smartphone | Professional grade camera, 8K video, 64MP high resolution | 128GB, (SM-G991B/DS) (Phantom Violet)",
+    "salePrice": 825,
+    "img": [
+      "https://m.media-amazon.com/images/I/71cb4T2yAeL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61wmqK1hlRL._AC_SX425_.jpg"
+    ],
+    "purchasePrice": 550,
+    "stock": 2,
+    "discount": 0,
+    "supplier": 1,
+    "Categories": 2,
+    "ram": "8",
+    "processor": "4 core",
+    "storage": 128,
+    "opeSystem" : "Android",
+    "sizeScreen" : 9,
+    "resolution" : "Full HD",
+    "typeScreen" : "Amoled"
+  },
+  {
+    "name": "Apple iPhone 12 Pro",
+    "description": "Unlocked and compatible with any preferred carrier on GSM and CDMA networks (eg AT&T, T-Mobile, Sprint, Verizon, US Cellular, Cricket, Metro, Tracfone, Mint Mobile, etc. ).",
+    "salePrice": 1400,
+    "img": [
+      "https://m.media-amazon.com/images/I/61kYwdMmD-L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51IS48kzwvL._AC_SY550_.jpg"
+    ],
+    "purchasePrice": 1000,
+    "stock": 4,
+    "discount": 0,
+    "supplier": 6,
+    "Categories": 2,
+    "ram": "16",
+    "processor": "8 core",
+    "storage": 128,
+    "opeSystem" : "iOS",
+    "sizeScreen" : 7.8,
+    "resolution" : "Full HD",
+    "typeScreen" : "Amoled"
+  },
+  {
+    "name": "Samsung Electronics Tablet Android Galaxy Tab S7 FE 2021",
+    "description": "Big screen, big experience: A large 12.5-inch screen brings your content to life in brilliant color, whether indoors or out, making the Samsung Galaxy S7 FE a great tablet for studying time or a quick break from work. training",
+    "salePrice": 530,
+    "img": [
+      "https://m.media-amazon.com/images/I/913nyCXkdrS._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61yA3Ls+4US._AC_SY450_.jpg"
+    ],
+    "purchasePrice": 400,
+    "stock": 5,
+    "discount": 5,
+    "supplier": 2,
+    "Categories": 5,
+    "ram": "8",
+    "processor": "4 core",
+    "storage" : 128,
+    "opeSystem" : "Android",
+    "sizeScreen" : 10,
+    "resolution" : "HD",
+    "typeScreen" : "TouchScreen"
+  },
+  {
+    "name": "65-inch Sony TV X85J: 4K Ultra HD LED Smart Google TV",
+    "description": "native refresh rate of 120HZ, Dolby Vision HDR and Alexa compatibility KD65X85J- model 2021",
+    "salePrice": 1100,
+    "img": [
+      "https://m.media-amazon.com/images/I/812wiz16nlL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81PRHCsCIlL._AC_SX466_.jpg"
+    ],
+    "purchasePrice": 900,
+    "stock": 7,
+    "discount": 0,
+    "supplier": 4,
+    "Categories": 3,
+    "sizeScreen" : 65,
+    "resolution" : "4K ultra HD",
+    "typeScreen" : "LED"
+  },
+  {
+    "name": "LG Smart TV OLED A1 Series 48 Integrated Alexa 4K",
+    "description": "60Hz refresh rate, 4K powered by ai, Dolby Cinema, WiSA Ready, game mode (OLED48A1PUA, 2021)",
+    "salePrice": 1200,
+    "img": [
+      "https://m.media-amazon.com/images/I/91UdRXFfirS._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61U2jBF5npS._AC_SX355_.jpg"
+    ],
+    "purchasePrice": 950,
+    "stock": 4,
+    "discount": 0,
+    "supplier": 5,
+    "Categories": 3,
+    "sizeScreen" : 40,
+    "resolution" : "4K ultra HD",
+    "typeScreen" : "OLED"
+  },
+  {
+    "name": "Skytech Gaming Archangel Desktop Computer for Gaming",
+    "description": "Ryzen 5 5600X 3.7GHz, RTX 3060 TI 8G, 1TB NVMe SSD, 16GB DDR4 3200MHz, RGB fans, Windows 10 Home 64bit, 802.11AC Wi-Fi, white",
+    "salePrice": 1699.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/71pczXb2vaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71hDxaPOPnL._AC_SY879_.jpg"
+    ],
+    "purchasePrice": 1200,
+    "stock": 5,
+    "discount": 0,
+    "supplier": 5,
+    "Categories": 1,
+    "ram": "16",
+    "processor": "AMD",
+    "storage" : 1024,
+    "display": 0,
+    "opeSystem" : "Windows"
+  },
+  {
+    "name": "Desktop PC Gamer Skytech Blaze 3.0",
+    "description": "Intel i5-11400F, RX 6600, 1TB NVME, 16G DDR4 3200, 120mm AIO, AC Wi-Fi, Windows 10 Home 64bit, white",
+    "salePrice": 1399.99,
+    "img": [
+      "https://m.media-amazon.com/images/I/81nBciZF-0L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81hMsMRooqL._AC_SY879_.jpg"
+    ],
+    "purchasePrice": 1000,
+    "stock": 3,
+    "discount": 0,
+    "supplier": 4,
+    "Categories": 1,
+    "ram": "16",
+    "processor": "Intel",
+    "storage" : 1024,
+    "display": 0,
+    "opeSystem" : "Windows"
+  },
+  {
+    "name": "ASUS VivoBook 15 Thin and Light Laptop",
+    "description": "15.6-inch FHD Display, AMD Quad Core R7-3700U CPU, 8GB DDR4 RAM, 512GB PCIe SSD, AMD Radeon Vega 10 Graphics, Fingerprint, Windows 10 Home, Slate Gray , F512DA-NH77",
+    "salePrice": 895,
+    "img": [
+      "https://m.media-amazon.com/images/I/81fstJkUlaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/816ioPpcNEL._AC_SY450_.jpg"
+    ],
+    "purchasePrice": 200,
+    "stock": 2,
+    "discount": 10,
+    "supplier": 4,
+    "Categories": 6,
+    "ram": "8",
+    "processor": "AMD",
+    "storage" : 512,
+    "opeSystem" : "Windows",
+    "sizeScreen" : 15.6,
+    "resolution" : "HD",
+    "typeScreen" : "LCD"
+  }
+]
