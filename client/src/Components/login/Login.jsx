@@ -21,6 +21,8 @@ const Login = () => {
     password: "",
   });
 
+  const API = process.env.REACT_APP_API;
+
   const handleInput = (e) => {
     setInput({
       ...input,
@@ -31,7 +33,7 @@ const Login = () => {
   const loginSubmit = (e) => {
     e.preventDefault();
     async function getToken() {
-      const { data } = await axios.post("http://localhost:3001/usuario/login", {
+      const { data } = await axios.post(`${API}/usuario/login`, {
         email: input.email,
         password: input.password,
       });

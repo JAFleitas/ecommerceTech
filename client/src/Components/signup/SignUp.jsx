@@ -30,6 +30,8 @@ const SignUp = () => {
   };
   const navigate = useNavigate();
 
+  const API = process.env.REACT_APP_API;
+
   const RegisterSubmit = (e) => {
     e.preventDefault();
     if (
@@ -40,14 +42,11 @@ const SignUp = () => {
       return;
     }
     async function token() {
-      const { data } = await axios.post(
-        "http://localhost:3001/usuario/signup",
-        {
-          email: input.email,
-          username: input.username,
-          password: input.password,
-        }
-      );
+      const { data } = await axios.post(`${API}/usuario/signup`, {
+        email: input.email,
+        username: input.username,
+        password: input.password,
+      });
 
       window.localStorage.setItem("Authorization", `Bearer ${data.token}`);
       setTimeout(() => {
