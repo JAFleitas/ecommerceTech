@@ -17,7 +17,7 @@ const modelSubCategories = require("../models/SubCategory");
 
 const modelSpecifict_Category = require("../models/Specifict_Category");
 
-const { DB_USER, DB_PASSWORD, DB_HOST, DB_NAME } = process.env;
+const { DB_USER, DB_PASSWORD, DB_HOST, DB_NAME, DB_PORT } = process.env;
 
 /* eslint-disable */
 const sequelize =
@@ -26,7 +26,7 @@ const sequelize =
         database: DB_NAME,
         dialect: "postgres",
         host: DB_HOST,
-        port: 5432,
+        port: DB_PORT || 5432,
         username: DB_USER,
         password: DB_PASSWORD,
         pool: {
