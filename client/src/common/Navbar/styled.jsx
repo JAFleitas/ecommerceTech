@@ -30,6 +30,7 @@ export const Menu = styled.ul`
   grid-gap: 1rem;
   justify-items: center;
   align-items: center;
+  margin: 0;
 `;
 export const LogoContainer = styled.div`
   color: #e9e0e0ee;

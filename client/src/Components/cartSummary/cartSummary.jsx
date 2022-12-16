@@ -7,7 +7,7 @@ import { Container, Title, Items, LineBreak, Total, CleanCart } from "./styled";
 
 import { CardStripe } from "../../Pages/Shopping/cardStripe.jsx";
 
-const REACT_APP_STRIPE = process.env.REACT_APP_STRIPE;
+const REACT_APP_STRIPE = import.meta.env.VITE_APP_STRIPE;
 import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
 

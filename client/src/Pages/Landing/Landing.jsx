@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import styled from "styled-components";
 import Fade from "react-reveal/Fade";
 import Rotate from "react-reveal/Fade";
@@ -280,6 +280,13 @@ const Landing = () => {
       </Fade>
     </>
   );
+};
+
+export default Landing;
+ */
+
+const Landing = () => {
+  return <div>Landing</div>;
 };
 
 export default Landing;
