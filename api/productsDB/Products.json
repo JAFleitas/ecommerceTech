@@ -176,14 +176,24 @@
   {
     "name": "SAMSUNG Galaxy Tab S7 11-inch Android Tablet 128GB",
     "description": "PC PERFORMANCE. TABLET PORTABILITY: Transform your tablet into a PC experience with DeX mode and the optional keyboard¹ with expanded trackpad. (Keyboard sold separately) /nENTERTAINMENT, UPGRADED: Experience cinematic viewing with larger edge-to-edge displays, TFT LCD screen, and AKG quad speakers with Dolby Atmos Surround sound. /nREDESIGNED S PEN INCLUDED: With improved 9ms Pen latency, the redesigned S Pen can control presentations and take notes effortlessly. /nCHANGE THE WAY YOU GAME: Bring console gaming anywhere thanks to available Wi-Fi connection, an immersive screen, and Bluetooth-enabled controller.",
-    "price": 499.99,
+       "salePrice": 499.99,
     "img": [
       "https://m.media-amazon.com/images/I/51fPuFND28L._AC_SY741_.jpg",
       "https://m.media-amazon.com/images/I/51cHlU-HGVL._AC_SX679_.jpg"
     ],
+    "purchasePrice": 220,
+    "stock": 10,
+    "discount": 0,
+    "supplier": 2,
+    "Categories": 5,
+    "ram": "8",
+    "processor": "4 core",
+    "storage" : 512, 
 
-    "stock": 10
-
+    "opeSystem" : "Android",
+    "sizeScreen" : 5.8,
+    "resolution" : "HD",
+    "typeScreen" : "LCD"
    
     
   
