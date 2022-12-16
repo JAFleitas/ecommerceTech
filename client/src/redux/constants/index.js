@@ -13,7 +13,7 @@ export const POST_PRODUCT = "POST_PRODUCT";
 
 export const TOTAL_PAGES = "TOTAL_PAGES";
 /* eslint-disable */
-export const URL_BASE = process.env.REACT_APP_API;
+export const URL_BASE = import.meta.env.VITE_APP_API
 
 export const GET_CATEGORIES = " GET_CATEGORIES";
 

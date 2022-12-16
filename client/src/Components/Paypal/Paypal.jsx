@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import ReactDOM from "react-dom";
 import { DivPay } from "./styled.jsx";
 
@@ -39,6 +39,15 @@ const Paypal = () => {
       />
     </DivPay>
   );
+};
+
+export default Paypal;
+ */
+
+import React from "react";
+
+const Paypal = () => {
+  return <div>Paypal</div>;
 };
 
 export default Paypal;

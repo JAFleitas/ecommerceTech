@@ -2,7 +2,7 @@ import React from "react";
 import { CardStripe } from "./cardStripe";
 import styled from "styled-components";
 
-const REACT_APP_STRIPE = process.env.REACT_APP_STRIPE;
+const REACT_APP_STRIPE = import.meta.env.VITE_APP_STRIPE;
 import { loadStripe } from "@stripe/stripe-js";
 import { Elements } from "@stripe/react-stripe-js";
 

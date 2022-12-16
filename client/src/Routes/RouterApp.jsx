@@ -20,7 +20,7 @@ import AdminUsers from "../Pages/AdminUsers/AdminUsers.jsx";
 import AdminCategories from "../Pages/AdminCategories/AdminCategories.jsx";
 import AdminProducts from "../Pages/AdminProducts/AdminProducts.jsx";
 import Landing from "../Pages/Landing/Landing.jsx";
-import Order from "../Pages/Order/Order.js";
+import Order from "../Pages/Order/Order.jsx";
 import Login from "../Components/login/Login.jsx";
 import SignUp from "../Components/signup/SignUp.jsx";
 import Profile from "../Pages/profile/Profile..jsx";

@@ -1,4 +1,5 @@
-/* eslint-disable */
+/* 
+/* eslint-disable 
 import React from "react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
@@ -122,6 +123,13 @@ const Login = () => {
       </Content>
     </Container>
   );
+};
+
+export default Login;
+ */
+
+const Login = () => {
+  return <div>Login</div>;
 };
 
 export default Login;
