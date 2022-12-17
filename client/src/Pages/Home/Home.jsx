@@ -11,6 +11,7 @@ import Footer from "../../common/Footer/Footer.jsx";
 import { Paginate } from "../../Components/Pagination/pagination.jsx";
 import { SideBarFilters } from "../../common/Sidebar/Sidebar.jsx";
 import { getProductsNames } from "../../redux/actions/actionProducts";
+import { useState } from "react";
 
 // const responsive = {
 //   desktop: {
@@ -32,10 +33,15 @@ import { getProductsNames } from "../../redux/actions/actionProducts";
 
 const Home = () => {
   const dispatch = useDispatch();
+  const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
+    setIsLoading(true);
     dispatch(getProductsNames());
+    setTimeout(() => setIsLoading(false), 500);
   }, []);
+
   const allProducts = useSelector((state) => state.products.allProducts);
+
   return (
     <>
       <Navbar />
@@ -52,9 +58,13 @@ const Home = () => {
                 alignItems: "center",
               }}
             >
-              <Spinner>
-                <div></div>
-              </Spinner>
+              {isLoading ? (
+                <Spinner>
+                  <div></div>
+                </Spinner>
+              ) : (
+                <h1>Products not found</h1>
+              )}
             </div>
           )}
         </CardsContainer>

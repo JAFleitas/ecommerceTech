@@ -117,7 +117,6 @@ export const SideBarFilters = () => {
           accessories: false,
         };
       });
-      console.log("hola mundo");
       setQueryFilters({
         ram: false,
         storage: false,

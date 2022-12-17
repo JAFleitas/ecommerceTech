@@ -1,8 +1,10 @@
-import React, { useEffect } from "react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+
 import { useDispatch, useSelector } from "react-redux";
+
 import { AiOutlineAppstore, AiOutlineShopping } from "react-icons/ai";
 import { GoThreeBars, GoX } from "react-icons/go";
+
 import {
   getCategoryAll,
   getProductByFilter,
