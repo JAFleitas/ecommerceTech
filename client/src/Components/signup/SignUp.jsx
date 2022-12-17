@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import { useState } from "react";
 
 import axios from "axios";
@@ -101,6 +101,15 @@ const SignUp = () => {
       </Content>
     </Container>
   );
+};
+
+export default SignUp;
+ */
+
+import React from "react";
+
+const SignUp = () => {
+  return <div>SignUp</div>;
 };
 
 export default SignUp;
