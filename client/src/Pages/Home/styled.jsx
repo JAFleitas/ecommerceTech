@@ -1,4 +1,12 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
+const spin = keyframes`
+  0%{
+    transform: rotate(0deg);
+  }
+100%{
+    transform: rotate(360deg);
+  }
+`;
 
 export const CardsContainer = styled.div`
   display: grid;
@@ -12,7 +20,7 @@ export const CardsContainer = styled.div`
   justify-items: center;
   align-items: center;
   z-index: 1;
-
+  min-height: 100vh;
   @media screen and (max-width: 768px) {
     grid-column: 1/2;
     grid-row: 2/3;
@@ -32,8 +40,19 @@ export const ContainerDisplay = styled.div`
     grid-template-rows: 51px 1fr;
   }
 `;
-export const NoProducts = styled.h1`
-  display: flex;
-  justify-content: center;
-  align-items: center;
+export const Spinner = styled.div`
+  background: linear-gradient(to right, #232f3e 80%, #147ce5cc);
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  animation: ${spin} 1s linear infinite;
+  div {
+    background: #f0f0f1;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    border-radius: 50%;
+    margin: 10px;
+  }
 `;

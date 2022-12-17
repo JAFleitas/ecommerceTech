@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
+  padding: 5px;
 `;
 
 export const SuggestionsWrapper = styled.div`
@@ -10,9 +11,8 @@ export const SuggestionsWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 0.3px solid #9898c4a7;
-  border-radius: 0px 0px 15px 15px;
   z-index: 2;
+  margin-top: 6px;
 `;
 
 export const Suggestion = styled.div`

@@ -86,7 +86,7 @@ const Searchbar = (props) => {
     props.reset();
   };
 
-  const onSuggest = () => {
+  const onSuggest = (name) => {
     dispatch(
       getProductByFilter({ ...products_controllers, nameProduct: name })
     );
