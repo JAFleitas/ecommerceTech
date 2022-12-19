@@ -5,18 +5,10 @@ const logger = require("morgan");
 const dotenv = require("dotenv");
 dotenv.config();
 var cors = require("cors");
+const router = require("./routes");
 /* const session = require("cookie-session"); */
 
-const productsRouter = require("./routes/products");
-// const usersRouter = require("./routes/products");
-const supplierRouter = require("./routes/suppliers");
-const categoryRouter = require("./routes/categories");
-const paymentRouter = require("./routes/payment");
-const users = require("./routes/users");
-const typeUser = require("./routes/typeUser");
-const orders = require("./routes/orders");
-const commentRouter = require("./routes/comments");
-const usuarioRouter = require("./routes/usuario");
+
 
 const app = express();
 app.use(cors());
@@ -32,15 +24,7 @@ app.use(cookieParser());
   })
 ); */
 
-app.use("/products", productsRouter);
-app.use("/suppliers", supplierRouter);
-app.use("/categories", categoryRouter);
-app.use("/payment", paymentRouter);
-app.use("/users", users);
-app.use("/typeuser", typeUser);
-app.use("/orders", orders);
-app.use("/comments", commentRouter);
-app.use("/usuario", usuarioRouter);
+app.use("/api",router);
 
 // catch 404 and forward to error handler
 app.use(function (req, res) {

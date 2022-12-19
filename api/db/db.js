@@ -105,9 +105,6 @@ Order.belongsTo(User, { foreignKey: "id_User" });
 Order.hasMany(Order_Detail, { foreignKey: "id_Order" });
 Order_Detail.belongsTo(Order, { foreignKey: "id_Order" });
 
-Type_User.hasMany(User, { foreignKey: "id_Type_User" });
-User.belongsTo(Type_User, { foreignKey: "id_Type_User" });
-
 Type_User.hasMany(Usuario, { foreignKey: "id_Type_usuario" });
 Usuario.belongsTo(Type_User, { foreignKey: "id_Type_usuario" });
 

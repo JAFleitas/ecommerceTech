@@ -4,9 +4,8 @@ const {
   incomeProductDB,
   incomeSuppliers,
   incomeCategory,
-  incomeUserTypes,
   incomeUsers,
-  incomeComments,
+  /* incomeComments, */
   addSpecifictAccesories,
 } = require("./utils");
 const { PORT } = process.env;
@@ -17,9 +16,9 @@ sequelize.sync({ force: true }).then(() => {
     await incomeSuppliers();
     await addSpecifictAccesories();
     await incomeProductDB();
-    await incomeUserTypes();
+
     await incomeUsers();
-    await incomeComments();
-    console.log(`%s listening at ${PORT}`); // eslint-disable-line no-console
+    /*   await incomeComments(); */
+    console.log(`listening at ${PORT}`); // eslint-disable-line no-console
   });
 });
