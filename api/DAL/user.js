@@ -24,4 +24,15 @@ const findUser = async (email) => {
   }
 };
 
-module.exports = { createUser, findUser };
+const getUserById = async (id) => {
+  try {
+    const user = await User.findByPk(id, {
+      attributes: { exclude: ["password"] },
+    });
+    return user;
+  } catch (error) {
+    throw new Error(error.message);
+  }
+};
+
+module.exports = { createUser, findUser, getUserById };

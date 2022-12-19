@@ -19,7 +19,7 @@ router.use("/products", productsRouter);
 router.use("/suppliers", supplierRouter);
 router.use("/categories", categoryRouter);
 router.use("/payment", paymentRouter);
-router.use("/users", verifyAuth, users);
+router.use("/user", verifyAuth, users);
 
 router.use("/orders", orders);
 router.use("/comments", commentRouter);
