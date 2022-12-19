@@ -3,9 +3,9 @@ const { Product, Category, Supplier, Specifict_Category } = require("../db/db");
 const dataProducts = require("../productsDB/Products.json");
 const categories = require("../productsDB/Categories.json");
 const dataSuppliers = require("../productsDB/Suppliers.json");
-const userTypes = require("../productsDB/UserTypes.json");
+
 const users = require("../productsDB/Users.json");
-const comments = require("../productsDB/Comments.json");
+/* const comments = require("../productsDB/Comments.json"); */
 const { URL_BASE } = require("../Constants");
 //funcion para hacer un get y traerse todos los productos
 const incomeProductDB = async () => {
@@ -70,29 +70,18 @@ const incomeSuppliers = async () => {
   });
 };
 
-const incomeUserTypes = async () => {
-  for (let i = 0; i < userTypes.length; i++) {
-    const element = userTypes[i];
-    try {
-      await axios.post(URL_BASE + "/typeuser?name=" + element.name);
-    } catch (e) {
-      console.log(e);
-    }
-  }
-};
-
 const incomeUsers = async () => {
   for (let i = 0; i < users.length; i++) {
     const element = users[i];
     try {
-      await axios.post(URL_BASE + "/users", element);
+      await axios.post(URL_BASE + "/auth/register", element);
     } catch (e) {
       console.log(e);
     }
   }
 };
 
-const incomeComments = async () => {
+/* const incomeComments = async () => {
   for (let i = 0; i < comments.length; i++) {
     const element = comments[i];
     try {
@@ -101,7 +90,7 @@ const incomeComments = async () => {
       console.log(e);
     }
   }
-};
+}; */
 
 const addSpecifictAccesories = async () => {
   const speAccesories = [
@@ -127,8 +116,7 @@ module.exports = {
   incomeCategory,
   incomeProductDB,
   incomeSuppliers,
-  incomeUserTypes,
   incomeUsers,
-  incomeComments,
+  /* incomeComments, */
   addSpecifictAccesories,
 };

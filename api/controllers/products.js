@@ -26,7 +26,7 @@ const newgetProductsAll = async (req, res) => {
     opeSystem,
     resolution,
   } = req.query;
-  console.log("Hola2");
+
   /*
   category---- se desglosa a multiples
   page

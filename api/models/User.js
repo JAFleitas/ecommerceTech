@@ -6,27 +6,39 @@ module.exports = (sequelize) => {
   sequelize.define(
     "User",
     {
-      firstName: {
+      id: {
+        type: DataTypes.UUID,
+        defaultValue: DataTypes.UUIDV4,
+        primaryKey: true,
+      },
+      name: {
         type: DataTypes.STRING,
         allowNull: false,
       },
-      lastName: {
-        type: DataTypes.STRING,
-        allowNull: false,
-      },
+
       email: {
         type: DataTypes.STRING,
         validator: {
           isEmail: true,
         },
       },
-      username: {
-        type: DataTypes.STRING,
-        allowNull: false,
-      },
       password: {
         type: DataTypes.STRING,
         allowNull: false,
+      },
+      address: {
+        type: DataTypes.STRING,
+        allowNull: true,
+      },
+      rol: {
+        type: DataTypes.ENUM({
+          values: ["client", "admin", "subAdmin"],
+        }),
+        defaultValue: "client",
+      },
+      photo: {
+        type: DataTypes.STRING,
+        allowNull: true,
       },
     },
     { timestamps: false }

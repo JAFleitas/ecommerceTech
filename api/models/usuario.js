@@ -6,6 +6,11 @@ module.exports = (sequelize) => {
   sequelize.define(
     "Usuario",
     {
+      id: {
+        type: DataTypes.UUID,
+        defaultValue: DataTypes.UUIDV4,
+        primaryKey: true,
+      },
       email: {
         type: DataTypes.STRING,
         validator: {
@@ -22,11 +27,6 @@ module.exports = (sequelize) => {
       },
       password: {
         type: DataTypes.STRING,
-      },
-      id: {
-        type: DataTypes.UUID,
-        defaultValue: DataTypes.UUIDV4,
-        primaryKey: true,
       },
     },
     { timestamps: false }
