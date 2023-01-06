@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { CardsContainer, ContainerDisplay, NoProducts } from "./styled";
+import { CardsContainer, ContainerDisplay, Spinner } from "./styled";
 // import Carousel from "react-multi-carousel";
 // import "react-multi-carousel/lib/styles.css";
 
@@ -11,6 +11,7 @@ import Footer from "../../common/Footer/Footer.jsx";
 import { Paginate } from "../../Components/Pagination/pagination.jsx";
 import { SideBarFilters } from "../../common/Sidebar/Sidebar.jsx";
 import { getProductsNames } from "../../redux/actions/actionProducts";
+import { useState } from "react";
 
 // const responsive = {
 //   desktop: {
@@ -32,10 +33,15 @@ import { getProductsNames } from "../../redux/actions/actionProducts";
 
 const Home = () => {
   const dispatch = useDispatch();
+  const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
+    setIsLoading(true);
     dispatch(getProductsNames());
+    setTimeout(() => setIsLoading(false), 500);
   }, []);
+
   const allProducts = useSelector((state) => state.products.allProducts);
+
   return (
     <>
       <Navbar />
@@ -45,7 +51,21 @@ const Home = () => {
           {allProducts.length > 0 ? (
             allProducts.map((product) => <Card key={product.id} {...product} />)
           ) : (
-            <NoProducts>Product not found...</NoProducts>
+            <div
+              style={{
+                height: "calc(100vh - 95px)",
+                display: "flex",
+                alignItems: "center",
+              }}
+            >
+              {isLoading ? (
+                <Spinner>
+                  <div></div>
+                </Spinner>
+              ) : (
+                <h1>Products not found</h1>
+              )}
+            </div>
           )}
         </CardsContainer>
       </ContainerDisplay>

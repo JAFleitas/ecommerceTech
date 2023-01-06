@@ -3,22 +3,22 @@ import styled from "styled-components";
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
+  padding: 5px;
 `;
 
 export const SuggestionsWrapper = styled.div`
-  background-color: white;
+  background-color: #f7f7f7;
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 0.3px solid #9898c4a7;
-  border-radius: 0px 0px 15px 15px;
   z-index: 2;
+  margin-top: 6px;
 `;
 
 export const Suggestion = styled.div`
   display: flex;
   align-content: center;
-  background-color: white;
+  background-color: #f7f7f7;
   color: black;
   z-index: 2;
   font-size: 12px;
@@ -32,7 +32,7 @@ export const Suggestion = styled.div`
   &:hover {
     cursor: pointer;
     color: #1a85ffe4;
-    background-color: #c5c5f311;
+    background-color: #c5c5f3;
   }
 `;
 

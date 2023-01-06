@@ -1,5 +1,3 @@
-import React from "react";
-
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 import { Shopping } from "../Pages/Shopping/Shopping.jsx";
